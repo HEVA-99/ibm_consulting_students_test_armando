@@ -3,6 +3,7 @@
 # Ejercicios de SQL
 ## Estructura del Proyecto
 
+```bash
 SQL/
 │
 ├── base.db                # Base de datos SQLite precreada
@@ -10,7 +11,7 @@ SQL/
 ├── ejercicio_1.sql        # Script con la consulta del Ejercicio 1
 ├── ejercicio_2.sql        # Script con la consulta del Ejercicio 2
 └── reset.sql              # Script para resetear la base de datos
-
+```
 
 ## Instrucciones para Ejecutar los Ejercicios
 
