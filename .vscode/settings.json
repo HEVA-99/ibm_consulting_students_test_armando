@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "*.cob": "COBOL",
+        "*.COB": "COBOL",
+        "*.cbl": "COBOL",
+        "*.CBL": "COBOL",
+        "*.cblle": "COBOL",
+        "*.CBLLE": "COBOL",
+        "*.sqlcblle": "COBOL",
+        "*.SQLCBLLE": "COBOL",
+        "*.cobol": "COBOL",
+        "*.COBOL": "COBOL",
+        "*.scbl": "COBOL",
+        "*.SCBL": "COBOL",
+        "*.pco": "COBOL",
+        "*.PCO": "COBOL",
+        "*.eco": "COBOL",
+        "*.ECO": "COBOL",
+        "*.copy": "COBOL",
+        "*.COPY": "COBOL",
+        "*.cobcopy": "COBOL",
+        "*.COBCOPY": "COBOL"
+    }
+}
