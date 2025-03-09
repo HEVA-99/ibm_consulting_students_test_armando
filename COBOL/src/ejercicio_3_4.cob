@@ -1,0 +1,19 @@
+IDENTIFICATION DIVISION.
+Program-ID.    ejercicio_3.4.
+Author.        Armando Hernandez.
+
+DATA DIVISION.
+WORKING-STORAGE SECTION.
+    01  VAR1 PIC 9(5) VALUE 63458.
+    01  VAR2 PIC 9(5) VALUE 54820.
+    01  VAR3 PIC 9(5) VALUE zeroes.
+
+PROCEDURE DIVISION.
+    if VAR1 > VAR2 THEN 
+       MOVE 500 TO VAR3 
+    ELSE
+       DISPLAY VAR1.
+
+    DISPLAY "VAR3: " VAR3.
+
+    STOP RUN.
