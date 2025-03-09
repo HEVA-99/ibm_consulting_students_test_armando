@@ -1,7 +1,7 @@
 # Prueba Técnica 2025 
 
 ### Armando Hernández de la Vega
-### ahdelaveg99@gmail.com
+### ahdelavega99@gmail.com
 
 ## Ejercicios SQL
 ### Estructura del Proyecto
